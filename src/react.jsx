@@ -16,7 +16,7 @@ class HelloWorld extends React.Component{
 	}
 }
 
-//var x = <div> Hello World </div>	// HTML components
+//var x = <div> Hello World </div>	// HTML components : Instantation of RC 
 var elem = <HelloWorld/> 	// REACT Element : Instantation of RC 
 var node = document.getElementById("app");
 
