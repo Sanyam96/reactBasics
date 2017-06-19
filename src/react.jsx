@@ -17,4 +17,5 @@ class HelloWorld extends React.Component{
 	}
 }
 
-var x = <div> Hello World </div>	// HTML components
+//var x = <div> Hello World </div>	// HTML components
+var x = <HelloWorld/> 	// REACT Element : Instantation of RC 
