@@ -1,0 +1,7 @@
+babel install locally
+so cannot directy access
+
+in .bin folder
+./node_modules/.bin/babel babel_input.js -o browser_friendly_js_code.js
+
+./node_modules/.bin/webpack
